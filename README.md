@@ -1,4 +1,6 @@
 # Mortal-Kombat-Armageddon-PCSX2-Remaster-Arts-and-Menus
+FOR PCSX2 EMULATOR ONLY, GAME VERSION SLUS-21543
+
 The goal of this project is to remaster all the artwork and menus from Mortal Kombat: Armageddon, making them more realistic and high-definition by using AI alongside my own manual editing, made only for the PCSX2 emulator for now;
 
 Not all of them are faithful to the original; I had to make many modifications because the original textures are of very low quality, so I took some artistic liberties. I hope you like them, but if not, that's fine.
